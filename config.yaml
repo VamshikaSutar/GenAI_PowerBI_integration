@@ -1,0 +1,4 @@
+client:
+  name: "client_abc"
+  excel_path: "data/client_abc.xlsx"
+  #powerbi_url: "https://app.powerbi.com/view?r=XYZ"

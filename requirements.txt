@@ -1,0 +1,9 @@
+streamlit
+pandas
+openpyxl
+PyYAML
+langchain
+sentence-transformers
+faiss-cpu
+transformers
+torch
