@@ -4,7 +4,7 @@ import google.generativeai as genai
 import ast
 import re
 # 🔐 Set your Gemini API key
-GOOGLE_API_KEY = "AIzaSyA5HdUrOsTkcJ8miPFcTOTG9N3-0pP9Fnc"  # Replace this with your key
+GOOGLE_API_KEY = ""  # Replace this with your key
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # 🔧 Load Excel all sheets
@@ -96,3 +96,4 @@ if __name__ == "__main__":
         main()
     except Exception as e:
         print("🔥 Exception occurred:", e)
+
