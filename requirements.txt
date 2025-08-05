@@ -7,3 +7,14 @@ sentence-transformers
 faiss-cpu
 transformers
 torch
+langchain-community
+ollama
+huggingface_hub
+unstructured[excel]
+python-dotenv
+os
+langchain_experimental
+pandasai
+openllm
+gpt4all
+langchain
